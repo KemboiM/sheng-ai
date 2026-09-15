@@ -1,0 +1,10 @@
+pandas>=2.2
+scikit-learn>=1.5
+streamlit>=1.38
+python-dotenv>=1.0
+transformers>=4.44
+accelerate>=0.34
+sentence-transformers>=3.0
+faster-whisper>=1.0
+pyttsx3>=2.98
+pytest>=8.3
