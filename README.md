@@ -1,6 +1,6 @@
 # Sheng AI MVP
 
-An 18-day MVP for a Sheng ↔ Swahili ↔ English AI system with vocabulary retrieval, translation, speech-to-text, text-to-speech, and a rights-aware Bible translation-assistant prototype.
+An 18-day MVP for a Sheng ↔ Swahili ↔ English AI system with vocabulary retrieval, translation, speech-to-text, text-to-speech, and a rights-aware Bible translation assistant prototype.
 
 ## Product goal
 
@@ -16,11 +16,11 @@ Build a working demonstration that can:
 
 > This repository intentionally does **not** include unrestricted Facebook/TikTok scraping. Social data ingestion must use authorized APIs, creator licensing, public-domain/licensed sources, or explicit permission, with provenance retained.
 
-## 18-day plan
+## Plan
 
 ```mermaid
 gantt
-    title Sheng AI MVP — 18 Day Build
+    title Sheng AI MVP — Build
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
 
