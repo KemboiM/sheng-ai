@@ -1,6 +1,6 @@
 # Sheng AI MVP
 
-An 18-day MVP for a Sheng ↔ Swahili ↔ English AI system with vocabulary retrieval, translation, speech-to-text, text-to-speech, and a rights-aware Bible translation assistant prototype.
+An MVP for a Sheng ↔ Swahili ↔ English AI system with vocabulary retrieval, translation, speech-to-text, text-to-speech, and a rights-aware Bible translation assistant prototype.
 
 ## Product goal
 
