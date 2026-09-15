@@ -1,0 +1,9 @@
+id,input_text,target_language,reference_translation,notes
+1,Niaje buda?,english,What's up bro?,greeting
+2,Rada ya leo ni gani?,english,What's the plan today?,context-sensitive slang
+3,Niko keja,english,I'm at home,place slang
+4,Sina doh leo,english,I don't have money today,money slang
+5,Niko na mbogi yangu,english,I'm with my crew,social slang
+6,Niaje buda?,swahili,Habari rafiki?,greeting
+7,Rada ya leo ni gani?,swahili,Mpango wa leo ni upi?,context-sensitive slang
+8,Niko keja,swahili,Niko nyumbani,place slang
